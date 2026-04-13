@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-requests
-certifi
-pyrogram
-tgcrypto
