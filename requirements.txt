@@ -1,2 +1,4 @@
-أpyTelegramBotAPI
+pyTelegramBotAPI
 requests
+certifi
+telethon
